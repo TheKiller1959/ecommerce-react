@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useForm } from 'react-hook-form';
-import { FaBirthdayCake, FaLock, FaUserAlt } from 'react-icons/fa';
+import { FaLock } from 'react-icons/fa';
 import { AiOutlineMail } from 'react-icons/ai';
 import { useNavigate } from 'react-router-dom';
 import { loginUser } from '../services';
